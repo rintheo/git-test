@@ -1,3 +1,3 @@
-# git_test
+# git-test
 GitHub repo test.
 Hello Odin!
